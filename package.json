@@ -1,0 +1,21 @@
+{
+  "name": "threejs-snow-valley",
+  "version": "1.0.0",
+  "description": "3D Mountain Valley Snow Scene with Three.js",
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "serve": "npx serve -l 8080 ."
+  },
+  "keywords": [
+    "threejs",
+    "snow",
+    "mountain",
+    "valley",
+    "procedural",
+    "webgl",
+    "3d"
+  ],
+  "author": "",
+  "license": "MIT"
+}
